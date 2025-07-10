@@ -80,15 +80,8 @@ This Power BI dashboard offers deep, actionable insights into the restaurant ind
 
 ---
 
-## 🖼 Preview
-
-> *(Insert image links once screenshots are uploaded)*
-
-**Service Type Trends**  
-![Zomato Service](screenshots/zomato-service.png)
-
-**Location-Rating Heatmap**  
-![Zomato Location](screenshots/zomato-location.png)
+**Dashboard Sample View**
+<img width="2075" height="1259" alt="image" src="https://github.com/user-attachments/assets/15c5c2da-b850-4bd6-b855-b46b1bb73161" />
 
 ---
 
